@@ -3,4 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="$USER_HOME$/miniconda3" />
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="/opt/homebrew/Caskroom/miniconda/base/envs/analytics_base" project-jdk-type="Python SDK" />
 </project>
